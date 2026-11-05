@@ -13,7 +13,7 @@ Este repositorio conserva el punto de partida de la actividad M4-S26. Incluye la
 La plantilla no está lista para producción ni para utilizarse como calculadora: los campos y cálculos todavía deben implementarse. Se conserva deliberadamente como evidencia del punto de partida de la actividad.
 
 ## Versión desarrollada
-La implementación evolucionada está en [M4-S26 — Integración y evaluación técnico-económica de IA](https://github.com/javierfg12/m4-s26-integracion-ia).
+La implementación evolucionada está en [M4-S26 — Integración y evaluación técnico-económica de IA](https://github.com/javierfg12/m4-s26-evaluacion-tecnico-economica-ia).
 
 ## Seguridad
 No introduzcas datos personales reales, información confidencial ni claves API.
